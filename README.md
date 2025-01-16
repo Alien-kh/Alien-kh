@@ -47,10 +47,10 @@ say something
 
    ![back_0.jpg](./imgs/ootd_0_0.jpg)
    ![back_1.jpg](./imgs/ootd0.jpg)
-   ![back_2.jpg](./imgs/ootd1.jpg)
-   ![back_1.jpg](./imgs/ootd2.jpg)
-   ![back_1.jpg](./imgs/ootd3.jpg)
-   ![back_1.jpg](./imgs/ootd4.jpg)
+   ![back_2.jpg](./imgs/ootd1.JPG)
+   ![back_1.jpg](./imgs/ootd2.JPG)
+   ![back_1.jpg](./imgs/ootd3.JPG)
+   ![back_1.jpg](./imgs/ootd4.JPG)
  
    ---
 
