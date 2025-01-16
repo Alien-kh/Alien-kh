@@ -43,10 +43,15 @@ say something
 4. IMSCC(국제수리과학창대회) / 포디프레임학회 캡스톤 부문 은상 (PM/팀장) - 인턴할 때 만들었던 앱을 디벨롭하여 발표 
    ![4d.jpg](./imgs/4d.jpg)
 
-5. OOTD (AI 사용자 기반 옷 추천 서비스) - 백엔드 / AI학습 / 기획 
-   ![back_1.jpg](./imgs/back_1.jpg)
-   ![back_2.jpg](./imgs/back_2.jpg)
-   
+5. OOTD (AI 사용자 기반 옷 추천 서비스) - 백엔드 / AI학습 / 기획
+
+   ![back_0.jpg](./imgs/ootd_0_0.jpg)
+   ![back_1.jpg](./imgs/ootd0.jpg)
+   ![back_2.jpg](./imgs/ootd1.jpg)
+   ![back_1.jpg](./imgs/ootd2.jpg)
+   ![back_1.jpg](./imgs/ootd3.jpg)
+   ![back_1.jpg](./imgs/ootd4.jpg)
+ 
    ---
 
 ## 기타
