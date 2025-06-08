@@ -51,7 +51,26 @@ say something
    ![back_1.jpg](./imgs/ootd2.JPG)
    ![back_1.jpg](./imgs/ootd3.JPG)
    ![back_1.jpg](./imgs/ootd4.JPG)
- 
+
+6. 프로젝트 '여운' - 도서 추천 웹사이트 (최우수) - 백엔드 / 서버 배포
+   ![book_1.jpg](./imgs/book_pjt_1.png)
+   ![book_1.jpg](./imgs/book_pjt_2.png)
+   ![book_1.jpg](./imgs/book_pjt_3.png)
+   ![book_1.jpg](./imgs/book_pjt_4.png)
+   ![book_1.jpg](./imgs/book_pjt_5.png)
+   ![book_1.jpg](./imgs/book_pjt_7.png)
+   ![book_1.jpg](./imgs/book_pjt_8.png)
+   ![book_1.jpg](./imgs/book_pjt_9.png)
+   ![book_1.jpg](./imgs/book_pjt_10.png)
+   ![book_1.jpg](./imgs/book_pjt_11.png)
+   ![book_1.jpg](./imgs/book_pjt_12.png)
+   ![book_1.jpg](./imgs/book_pjt_14.png)
+   ![book_1.jpg](./imgs/book_pjt_15.png)
+   ![book_1.jpg](./imgs/book_pjt_16.png)
+   ![book_1.jpg](./imgs/book_pjt_17.png)
+   ![book_1.jpg](./imgs/book_pjt_18.png)
+   ![book_1.jpg](./imgs/book_pjt_19.png)
+   ![book_1.jpg](./imgs/book_pjt_20.png)
    ---
 
 ## 기타
@@ -64,4 +83,4 @@ say something
 
 4. 한국장학재단 멘토링 – 팀장 (5년 째 만남 가지는 중) - 2021
 
-5. 2024 중소벤처기업부 2024벤처 스타트업 아카데미 수료 - 최종 한국여성벤처협회장 상  
+5. 2024 중소벤처기업부 2024 벤처 스타트업 아카데미 수료 - 최종 한국여성벤처협회장 수상  
