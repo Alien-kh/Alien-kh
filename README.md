@@ -70,33 +70,4 @@ say something
    ![book_1.jpg](./imgs/book_pjt_17.png)
    ![book_1.jpg](./imgs/book_pjt_18.png)
    ![book_1.jpg](./imgs/book_pjt_19.png)
-   ![book_1.jpg](./imgs/book_pjt_20.png)
-   ---
-
-# PetPlace
-### 우리동네 펫 커뮤니티 
----
-
-# 프로젝트 개요
-![petplace1.jpg](./imgs/petplace1.png)
-![petplace2.jpg](./imgs/petplace2.png)
-![petplace3.jpg](./imgs/petplace3.png)
-![petplace4.jpg](./imgs/petplace4.png)
-
-
-
-# 상세 역할분담
-
-- 조경호: AI 모델 연구 및 최적화, 빅데이터 추천 로직 구현, 인프라 구축, 채팅 기능 구현
-
-## 기타
-
-1. 2019 교내 지피지기 팀장 
-
-2. 교내 국제학생단 프렌즈(외국인 멘토링 프로그램) - 2019
-
-3. 교내 마음나눔센터 서포터즈 1,2기 부팀장 – 영상 편집 / 기획 / 촬영 / 스토리 제작 / 카드 뉴스 제작 - 2021
-
-4. 한국장학재단 멘토링 – 팀장 (5년 째 만남 가지는 중) - 2021
-
-5. 2024 중소벤처기업부 2024 벤처 스타트업 아카데미 수료 - 최종 한국여성벤처협회장 수상  
+   ![book_1.jpg](./imgs/book_p등
